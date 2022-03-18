@@ -1,4 +1,4 @@
-
+실습3의 문제1 - 2
 sentence = "Hello Python"
 print(sentence)
 
