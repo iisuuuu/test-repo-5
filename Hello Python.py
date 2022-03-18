@@ -1,3 +1,4 @@
+같은 라인_실습3의문제3번
 실습3의 문제1 - 2
 sentence = "Hello Python"
 print(sentence)
