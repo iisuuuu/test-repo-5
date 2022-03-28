@@ -4,4 +4,4 @@ print(sentence)
 김은진 202100927 컴퓨터공학부
 #Touched by user2
 
-print('오픈소스 4주차 실습')
+print('오픈소스 4주차 실습을 진행하도록 하겠습니다.')
